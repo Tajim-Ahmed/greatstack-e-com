@@ -8,11 +8,10 @@ A modern, production‑ready **full‑stack e‑commerce platform** built with t
 
 ## 🌟 Live Demo
 
-🔗 **User Frontend (Vercel):** [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)
-🔗 **Admin Panel (Vercel):** [https://your-admin-url.vercel.app](https://your-admin-url.vercel.app)
-🔗 **Backend API:** [https://your-backend-url](https://your-backend-url)
+🔗 **User Frontend (Vercel): https://greatstack-e-com-frontend.vercel.app
+🔗 **Admin Panel (Vercel): https://greatstack-e-com-admin.vercel.app
+🔗 **Backend API: workes with both 
 
----
 
 ## 🧠 Tech Stack
 
